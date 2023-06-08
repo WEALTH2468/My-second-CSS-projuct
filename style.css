@@ -1,0 +1,48 @@
+#section1 {
+    background-color: rgb(116, 8, 8);
+    text-align: center;
+    color: white;
+    font-weight: lighter;
+    font-family: tahoma;
+    border-radius: 10px;
+    
+}
+.class1 {
+    font-size: 70px;
+}
+.class2 {
+    color: rgb(168, 172, 176);
+    
+}
+.class3  {
+    text-align: center;
+    
+    
+}
+.class3 ul {
+    display: inline-block;
+    font-weight: bolder;
+    
+}
+.class3 li {
+    text-align: justify;
+}
+.parent {
+    position: relative;
+}
+.image1 {
+    filter: brightness(60%);
+    height: 700px;
+    width: 1300px;
+    opacity: 0.5;
+    background-color: black;
+    position: relative
+    
+
+}
+.image2 {
+    top: 20px;
+    left: 120px;
+    position: absolute;
+}
+ 
